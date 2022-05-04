@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+form{
+    background-color: #d3e8ff;
+     /* width: 50%; */
+    padding: 23px;
+    /* justify-self: center; */
+    /* justify-content: center; */
+}
+div{
+    background-color: #d3e8ff;
+    margin: 0;
+    /* width: 100%; */
+    /* height: 100%; */
+    /* padding: 23px; */
+}
+span{
+    color: red;
+}
+.a{
+    color: black;
+}
+div{
+    margin: 23px;
+    justify-content: center;
+}
+select{
+    width: 206px;
+}
+@media screen and (max-width:1000px){
+    
+}
+    
